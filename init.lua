@@ -577,7 +577,7 @@ require('lazy').setup({
         -- tsserver = {},
         --
         zls = {
-          cmd = { '/home/ricardo/programs/.bin/zls-bin/zls' },
+          cmd = { '/home/ricardo/programs/_bin/zls-bin/zls' },
         },
 
         lua_ls = {
